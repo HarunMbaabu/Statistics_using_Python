@@ -4,6 +4,12 @@
 16th october 2019
 #  Added calculate_kurtosis.py 
 
+Mathematical formula for claculatinng kurtosis
+
+
+![alt text](https://media.geeksforgeeks.org/wp-content/uploads/kurtosis.jpg)
+
+
 
 which outputs:
 
