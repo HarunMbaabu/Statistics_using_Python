@@ -23,3 +23,8 @@ Kurtosis for normal distribution : -0.3073930877422071
 
 
 
+
+![alt text](https://media.geeksforgeeks.org/wp-content/uploads/kurtosis-lin.png)
+
+
+
