@@ -34,3 +34,19 @@ Kurtosis for normal distribution : -0.3073930877422071
 
 
 
+
+
+16th october 2019
+#  Added calculate_skewness1.py 
+and 
+#  Added clculate_skewness2.py 
+
+
+formula for calculating skewness
+
+![alt text](https://cdn.wallstreetmojo.com/wp-content/uploads/2019/04/Skewness-Formula.jpg)
+
+
+
+
+
