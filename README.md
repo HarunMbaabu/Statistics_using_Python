@@ -48,5 +48,19 @@ formula for calculating skewness
 
 
 
+22rd october 2019
+
+#  added Mean_Squared_error.py
+
+python program to cacuate mean squared error.
+
+
+
+formula for cac=lculating mean squared error
+
+![alt text](https://www.educative.io/api/edpresso/shot/6149740091670528/image/4742364268593152)
+
+
+
 
 
